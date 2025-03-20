@@ -12,6 +12,9 @@ I am currently working as a Backend Developer at a startup called ClothBuddy. My
 ![](https://github-readme-streak-stats.herokuapp.com/?user=gautamaggarwaldev&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gautamaggarwaldev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+# LeetCode Stats:
+![Leetcode Stats](https://leetcard.jacoblin.cool/aggarwal_gautam)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=gautamaggarwaldev&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
