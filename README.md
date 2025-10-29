@@ -1,5 +1,7 @@
-# 💫 About Me:
-I am currently working as a Backend Developer at a startup called ClothBuddy. My current projects include developing the backend for Skill-Connect, a real-time chat application, and a face recognition app. My tech stack consists of Node.js, Express.js, MongoDB, React.js, Tailwind CSS, C++, and DSA.<br><br>I am always looking to collaborate on open-source projects related to backend development, APIs, and AI.<br>Right now, I am work on a Car Market Place which has some interesting AI features like search a car using AI, Personal ChatBot to give information about your favourite car and many more...<br><br>I am continuously learning and currently focusing on WebRTC for real-time communication, advanced AI-based search algorithms, and scalable backend architectures.<br><br>Feel free to ask me about backend development, including technologies like Node.js, Express, MongoDB, and REST APIs. I also have experience optimizing DSA solutions for coding competitions and building and publishing npm packages.<br><br>Fun fact: I created an npm package that received over 200 downloads in just one day!
+# About me
+
+<h1 align="center">DEVELOPER</h1>
+
 
 
 ## 🌐 Socials:
